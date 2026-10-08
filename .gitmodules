@@ -1,0 +1,36 @@
+[submodule "fish"]
+	path = fish
+	url = https://github.com/igsor/fish-config.git
+[submodule "hypr"]
+	path = hypr
+	url = https://github.com/igsor/hypr-config.git
+[submodule "kitty"]
+	path = kitty
+	url = https://github.com/igsor/kitty-config.git
+[submodule "waybar"]
+	path = waybar
+	url = https://github.com/igsor/waybar-config.git
+[submodule "wpaperd"]
+	path = wpaperd
+	url = https://github.com/igsor/wpaperd-config.git
+[submodule "starship"]
+	path = starship
+	url = https://github.com/igsor/starship-config.git
+[submodule "bash"]
+	path = bash
+	url = https://github.com/igsor/bash-config.git
+[submodule "mpd"]
+	path = mpd
+	url = https://github.com/igsor/mpd-config.git
+[submodule "rofi"]
+	path = rofi
+	url = https://github.com/igsor/rofi-config.git
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/igsor/neovim-config.git
+[submodule "vim"]
+	path = vim
+	url = https://github.com/igsor/vim-config.git
+[submodule "wlogout"]
+	path = wlogout
+	url = https://github.com/igsor/wlogout-config.git
