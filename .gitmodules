@@ -34,3 +34,6 @@
 [submodule "wlogout"]
 	path = wlogout
 	url = https://github.com/igsor/wlogout-config.git
+[submodule "rmpc"]
+	path = rmpc
+	url = https://github.com/igsor/rmpc-config.git
