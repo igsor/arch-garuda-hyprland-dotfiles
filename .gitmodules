@@ -37,3 +37,6 @@
 [submodule "rmpc"]
 	path = rmpc
 	url = https://github.com/igsor/rmpc-config.git
+[submodule "systemd"]
+	path = systemd
+	url = https://github.com/igsor/systemd-config.git
