@@ -40,3 +40,6 @@
 [submodule "systemd"]
 	path = systemd
 	url = https://github.com/igsor/systemd-config.git
+[submodule "yazi"]
+	path = yazi
+	url = https://github.com/igsor/yazi-config.git
