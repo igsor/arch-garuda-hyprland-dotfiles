@@ -59,3 +59,59 @@ Otherwise, install them manually.
     pacman -R firedragon
 
 
+# Keybindings
+
+## Application
+<SUPER-SPACE>                                 Application launcher
+<POWERBTN>                                    Logout/Exit screen
+<SUPER-Q>                                     Close active window
+<SUPER-E>                                     file browser
+<SUPER-F>                                     web browser
+<SUPER-S>                                     text editor
+<SUPER-T>                                     Terminal
+
+## Window location
+<SUPER-[DOWN|J]>                              Select window below
+<SUPER-[LEFT|H]>                              Select window to the left
+<SUPER-[RIGHT|L]>                             Select window to the right
+<SUPER-[UP|K]>                                Select window above
+<SUPER-SHIFT-[DOWN|J]>                        Move window down
+<SUPER-SHIFT-[LEFT|H]>                        Move window left
+<SUPER-SHIFT-[RIGHT|L]>                       Move window right
+<SUPER-SHIFT-[UP|K]>                          Move window up
+<SUPER-SHIFT-[1-0]>                           Move window to workspace
+<ALT-SHIFT-[1-0]>                             Move window to workspace & switch
+
+## Window layout
+<SUPER-M>                                     Maximize window
+<SUPER-SHIFT-P>                               Toggle horizontal/vertical window arrangement
+<SUPER-SHIFT-F>                               Toggle floating
+<SUPER-MOUSE-LEFT>                            Drag floating window
+<SUPER-MOUSE-MIDDLE>                          Resize floating window
+<SUPER-R>                                     Resize floating window using cursor or hjkl submap
+
+## Workspaces
+<SUPER-MOUSE-DOWN>                            Switch to next workspace
+<SUPER-[1-0]>                                 Switch workspace
+<SUPER-MOUSE-UP>                              Switch to previous workspace
+
+## Device control
+<FN-F1>                                       Mute
+<FN-F2>                                       Decrease volume
+<FN-F3>                                       Increase volume
+<FN-F4>                                       Mute microphone
+<FN-F5>                                       Decrease brightness
+<FN-F6>                                       Increase brightness
+
+## Screenshot
+<PRTSC>                                       Screenshot whole screen
+<SHIFT-PRTSC>                                 Screenshot selected area
+<SUPER-PRTSC>                                 Screenshot active window
+
+## Misc
+<SUPER-SHIFT-C>                               Change wallpaper
+<SUPER-SHIFT-R>                               Reload hyprland
+<SUPER-V>                                     View clipboard
+
+## rofi
+<CTRL-TAB>                                    Toggle application / window mode
