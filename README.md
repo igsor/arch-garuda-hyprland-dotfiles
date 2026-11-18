@@ -87,7 +87,7 @@ Otherwise, install them manually.
 <SUPER-SHIFT-P>                               Toggle horizontal/vertical window arrangement
 <SUPER-SHIFT-F>                               Toggle floating
 <SUPER-MOUSE-LEFT>                            Drag floating window
-<SUPER-MOUSE-MIDDLE>                          Resize floating window
+<SUPER-MOUSE-RIGHT>                           Resize floating window
 <SUPER-R>                                     Resize floating window using cursor or hjkl submap
 
 ## Workspaces
